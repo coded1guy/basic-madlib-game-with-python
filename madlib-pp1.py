@@ -28,7 +28,7 @@ if n == 'y' or n == "yes":
         questions[count] = input(question)
         count += 1
     showLyric()
-    print('I bet you didn\'t see that coming \n bye for now though \n mask up, stay healthy \n emmo cares :)')
+    print('I bet you didn\'t see that coming \n bye for now \n mask up, stay healthy \n emmo cares :)')
 else:
     print(':( why na, the game is nice, anyway') # end the game
     print('re-run the game when you are ready. Goodbye!')
